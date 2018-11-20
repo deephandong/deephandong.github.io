@@ -41,6 +41,10 @@ subtitle: Would you like to run with us?
 
 - ### Gyeonghyeob Kim
 
+- ### Youngjin Lee
+
+- ### Hyobin Kwak
+
 # Alumni
 
 - ### Sohee Yang
@@ -49,6 +53,8 @@ subtitle: Would you like to run with us?
   - Network Lab, SNU
 - ### Jiwoong Kim
   - Brain Lab, HGU
+- ### Yechan Mun
+  - DeepBio
 - ### Yunjong Kim
   - KAIST
 - ### Wonyoung Shin
