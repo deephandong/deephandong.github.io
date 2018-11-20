@@ -6,57 +6,58 @@ subtitle: Would you like to run with us?
 
 # Deep Learning Lab
 
-## Professor: In-jung Kim
-- Ph.D at Kaist
+- ### Professor: In-jung Kim
+  - Ph.D at Kaist
 
 # Master degree
 
-## Jinhyeok Yang
-- [homepage](https://yangyangii.github.io/)
+- ### Jinhyeok Yang
+  - [Homepage](https://yangyangii.github.io/)
 
-## Huibeom Kim
-- 
+- ### Huibeom Kim
+  - 
 
 # Bachelor
 
-## Chunmyeong Park
+- ### Chunmyeong Park
 
-## Jin Choi
+- ### Jin Choi
 
-## Hyewon Jeon
+- ### Hyewon Jeon
 
-## Donghui Yoon
+- ### Donghui Yoon
 
-## Yesung Kwon
+- ### Yesung Kwon
 
-## Chamjin Park
+- ### Chamjin Park
 
-## Minseok Song
+- ### Minseok Song
 
-## Minyoung Lee
+- ### Minyoung Lee
 
-## Eunseo Choi
+- ### Eunseo Choi
 
-## Seongkyul Yoon
+- ### Seongkyul Yoon
 
-## Gyeonghyeob Kim
+- ### Gyeonghyeob Kim
 
 # Alumni
 
-## Sohee Yang
-
-## Onyu Kang
-
-## Jiwoong Kim
-
-## Yunjong Kim
-
-## Wonyoung Shin
-
-## Jaemin Jang
-
-## Euisung Kim
-
-## Kihyun Na
-
-## Minsoo Kang
+- ### Sohee Yang
+  - Naver Clova AI
+- ### Onyu Kang
+  - Network Lab, SNU
+- ### Jiwoong Kim
+  - Brain Lab, HGU
+- ### Yunjong Kim
+  - KAIST
+- ### Wonyoung Shin
+  - KAIST
+- ### Jaemin Jang
+  - HANCOM
+- ### Euisung Kim
+  - KAKAO AI
+- ### Kihyun Na
+  - ROK
+- ### Minsoo Kang
+  - ^^

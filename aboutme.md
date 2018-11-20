@@ -14,31 +14,31 @@ subtitle: Would you like to run with us?
 
 
 # Research
-## Neural Speech Synthesis (2018. 1. ~ )
-- Deep Generative Model
-- 
+- ## Neural Speech Synthesis (2018. 1. ~ )
+  - Deep Generative Model
+  - 
 
-## WICWIU (Deep Learning Opensource Framework) (2017. 6. ~ )
-- using C, C++
-- cuDNN
+- ## WICWIU (Deep Learning Opensource Framework) (2017. 6. ~ )
+  - using C, C++
+  - cuDNN
 
-## Deeplearning-based Document Recognition (2018. 1. ~ )
-- 
-- 
+- ## Deeplearning-based Document Recognition (2018. 1. ~ )
+  - 
+  - 
 
-## Smart Factory (2018. 4. ~ )
-- 
+- ## Smart Factory (2018. 4. ~ )
+  - 
 
-## Image-based Fashion Recommendation System (2017. 6. ~ 2018. 6.)
-- 
+- ## Image-based Fashion Recommendation System (2017. 6. ~ 2018. 6.)
+  - 
 
-## Hangul and Font Recognition using CNN for Multi-task Learning   (2017. 4. ~ 2017. 10.)
-- 
+- ## Hangul and Font Recognition using CNN for Multi-task Learning   (2017. 4. ~ 2017. 10.)
+  - 
 
-## Neural Dialogue System (2017. 1. ~ 2017. 12.)
-- 
+- ## Neural Dialogue System (2017. 1. ~ 2017. 12.)
+  - 
 
-## And more...
+- ## And more...
 
 
 
