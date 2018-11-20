@@ -24,6 +24,7 @@ description: awesome!
 # List of links in the navigation bar
 navbar-links:
   Lab INFO: "aboutme"
+  Member: "member"
   Resources:
     - GitHub Pages: "https://deephandong.github.com/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

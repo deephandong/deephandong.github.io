@@ -6,6 +6,7 @@ subtitle: Would you like to run with us?
 
 # Deep Learning Lab
 
+- Professor: In-jung Kim
 - Super Coooooool Project
 - Exciting Research
 - will be updated more information ASAP
