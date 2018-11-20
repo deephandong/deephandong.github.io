@@ -58,6 +58,6 @@ subtitle: Would you like to run with us?
 - ### Euisung Kim
   - KAKAO AI
 - ### Kihyun Na
-  - ROK
+  - ROKAF
 - ### Minsoo Kang
   - ^^
