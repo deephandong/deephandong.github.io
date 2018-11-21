@@ -59,7 +59,7 @@ subtitle: Would you like to run with us?
 - ### Yechan Mun
   - DeepBio
 
-- ### Yunjong Kim
+- ### Yoonjong Kim
   - KAIST
 
 - ### Wonyoung Shin
