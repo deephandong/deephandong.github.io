@@ -11,15 +11,15 @@ subtitle: Would you like to run with us?
 
 # Master degree
 
-- ### Jinhyeok Yang
+- ### Jinhyeok Yang (2017. 8. ~ )
   - [Homepage](https://yangyangii.github.io/)
 
-- ### Huibeom Kim
+- ### Huibeom Kim (2019. 1. ~ )
   - 
 
 # Bachelor
 
-- ### Chunmyeong Park
+- ### Chunmyong Park
 
 - ### Jin Choi
 
@@ -65,5 +65,12 @@ subtitle: Would you like to run with us?
   - KAKAO AI
 - ### Kihyun Na
   - ROKAF
+- ### Yeonkyong Jeong
+  - POSCO ICT
+- ### Sewon Kim
+  - SNU
+- ### Jooheon Jeon
+  - LINE Corp.
 - ### Minsoo Kang
   - ^^
+
