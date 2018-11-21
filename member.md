@@ -14,7 +14,7 @@ subtitle: Would you like to run with us?
 - ### Jinhyeok Yang (2017. 8. ~ )
   - [Homepage](https://yangyangii.github.io/)
 
-- ### Huibeom Kim (2019. 1. ~ )
+- ### Heebeom Kim (2019. 1. ~ )
   - 
 
 # Undergraduate Student Researcher
@@ -69,13 +69,13 @@ subtitle: Would you like to run with us?
 - ### Jaemin Jang
   - Hancom GMD
 
-- ### Euisung Kim
+- ### Eesung Kim
   - KAKAO AI
 
 - ### Kihyun Na
   - ROKAF
 
-- ### Yeonkyong Jeong
+- ### Yeonkyeong Jeong
   - POSCO ICT
 
 - ### Sewon Kim
