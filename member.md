@@ -9,7 +9,7 @@ subtitle: Would you like to run with us?
 - ### Professor: In-jung Kim
   - Ph.D at Kaist
 
-# Master degree
+# Graduate Student Researcher
 
 - ### Jinhyeok Yang (2017. 8. ~ )
   - [Homepage](https://yangyangii.github.io/)
@@ -17,7 +17,7 @@ subtitle: Would you like to run with us?
 - ### Huibeom Kim (2019. 1. ~ )
   - 
 
-# Bachelor
+# Undergraduate Student Researcher
 
 - ### Chunmyong Park
 
@@ -49,28 +49,43 @@ subtitle: Would you like to run with us?
 
 - ### Sohee Yang
   - Naver Clova AI
+
 - ### Onyu Kang
   - Network Lab, SNU
+
 - ### Jiwoong Kim
   - Brain Lab, HGU
+
 - ### Yechan Mun
   - DeepBio
+
 - ### Yunjong Kim
   - KAIST
+
 - ### Wonyoung Shin
   - KAIST
+
 - ### Jaemin Jang
   - HANCOM
+
 - ### Euisung Kim
   - KAKAO AI
+
 - ### Kihyun Na
   - ROKAF
+
 - ### Yeonkyong Jeong
   - POSCO ICT
+
 - ### Sewon Kim
   - SNU
+
 - ### Jooheon Jeon
   - LINE Corp.
+
 - ### Minsoo Kang
   - UNIST 
 
+- ### Joohyeong Jin
+- ### Sungkyong Lee
+- ### and more...
