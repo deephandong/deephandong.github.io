@@ -72,5 +72,5 @@ subtitle: Would you like to run with us?
 - ### Jooheon Jeon
   - LINE Corp.
 - ### Minsoo Kang
-  - ^^
+  - UNIST 
 
