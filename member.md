@@ -87,6 +87,8 @@ subtitle: Would you like to run with us?
 - ### Minsu Kang
   - UNIST
 
-- ### Joohyeong Jin
 - ### Sungkyong Lee
+  - ZUM Internet
+
+- ### Joohyeong Jin
 - ### and more...
