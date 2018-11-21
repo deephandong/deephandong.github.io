@@ -45,16 +45,17 @@ subtitle: Would you like to run with us?
 
 - ### Hyobin Kwak
 
+
 # Alumni
 
 - ### Sohee Yang
   - Naver Clova AI
 
 - ### Onyu Kang
-  - Network Lab, SNU
+  - SCONE Lab, SNU
 
 - ### Jiwoong Kim
-  - Brain Lab, HGU
+  - BCI Lab, HGU
 
 - ### Yechan Mun
   - DeepBio
@@ -66,7 +67,7 @@ subtitle: Would you like to run with us?
   - KAIST
 
 - ### Jaemin Jang
-  - HANCOM
+  - Hancom GMD
 
 - ### Euisung Kim
   - KAKAO AI
@@ -80,11 +81,11 @@ subtitle: Would you like to run with us?
 - ### Sewon Kim
   - SNU
 
-- ### Jooheon Jeon
+- ### Juheon Jeon
   - LINE Corp.
 
-- ### Minsoo Kang
-  - UNIST 
+- ### Minsu Kang
+  - UNIST
 
 - ### Joohyeong Jin
 - ### Sungkyong Lee
