@@ -23,7 +23,7 @@ description: awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  Lab INFO: "aboutme"
+  Lab INFO: "labinfo"
   Member: "member"
   Resources:
     - GitHub Pages: "https://deephandong.github.io/"
