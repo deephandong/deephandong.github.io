@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Students
+title: Lab Members
 subtitle: Would you like to run with us? 
 ---
 
