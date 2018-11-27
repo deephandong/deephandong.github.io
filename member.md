@@ -4,18 +4,17 @@ title: Lab Students
 subtitle: Would you like to run with us? 
 ---
 
-# Deep Learning Lab
+# Professor
 
-- ### Professor: In-jung Kim
-  - Ph.D at Kaist
+- ### Injung Kim
+  - Ph.D at Kaist, [Profile](http://pro.handong.edu/callee/)
 
 # Graduate Student Researcher
 
 - ### Jinhyeok Yang (2017. 8. ~ )
-  - [Homepage](https://yangyangii.github.io/)
+  - B.S at HGU, [Profile](https://yangyangii.github.io/)
 
 - ### Heebeom Kim (2019. 1. ~ )
-  - 
 
 # Undergraduate Student Researcher
 
